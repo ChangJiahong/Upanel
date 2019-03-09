@@ -1,8 +1,0 @@
-E:\VS2012_Project\Upanel\Upanel\bin\Debug\Upanel.dll
-E:\VS2012_Project\Upanel\Upanel\bin\Debug\Upanel.pdb
-E:\VS2012_Project\Upanel\Upanel\obj\Debug\Upanel.csprojResolveAssemblyReference.cache
-E:\VS2012_Project\Upanel\Upanel\obj\Debug\Upanel.Properties.Resources.resources
-E:\VS2012_Project\Upanel\Upanel\obj\Debug\Upanel.UserControl1.resources
-E:\VS2012_Project\Upanel\Upanel\obj\Debug\Upanel.csproj.GenerateResource.Cache
-E:\VS2012_Project\Upanel\Upanel\obj\Debug\Upanel.dll
-E:\VS2012_Project\Upanel\Upanel\obj\Debug\Upanel.pdb
